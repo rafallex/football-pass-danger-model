@@ -81,6 +81,9 @@ Worked example, Phil Foden from one Champions League final (805 tracked runs, 21
 - mean direction **−3.47°** (almost straight towards goal)
 - circular variance **0.236** (fairly consistent — low variance means a clear, repeatable angle)
 
+![Foden runs into the final third](a3-statistical-testing/foden_runs_final_third.png)
+*Foden's 13 off-ball runs into the final third from one Champions League final, drawn on the pitch with the mean-direction vector (bold arrow) — mean −3.47°, circular variance 0.236.*
+
 This part uses a different dataset — tracking-derived runs from the `twelve-respovision-CL-final` parquet files rather than StatsBomb event JSON — so the notebook tries a few local paths and falls back to cloning that repo.
 
 ## Data attribution
