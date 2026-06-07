@@ -34,7 +34,7 @@ This is the version I trust most, because the label is a real outcome rather tha
 | Average precision | **0.390** (baseline 0.065) |
 | Test set | 1,758 passes, 115 positive |
 
-So against a 6.5% base rate the model reaches 0.39 average precision — roughly a 6× lift over guessing. The precision–recall curve below is from this run.
+So against a 6.6% base rate the model reaches 0.39 average precision — roughly a 6× lift over guessing. The precision–recall curve below is from this run.
 
 ![Precision–recall, Premier League test set](a2-xDA-pass-danger/outputs/pl_pr_curve_GBoost.png)
 
